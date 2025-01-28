@@ -1,2 +1,2 @@
 # hello_word_epi
-Hola mundo de los protipos para la autocalificación en la maestria de epi clinica
+Hola mundo de los prototipos para la autocalificación usando github education en la maestria epi clinica
